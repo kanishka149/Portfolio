@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile.jpg" width="180" height="180" alt="Kanishka G.">
+<img src="IMG_20260924_115335.jpg" width="180" height="180" alt="Kanishka G.">
 
 # Hi, I'm Kanishka G.
 
