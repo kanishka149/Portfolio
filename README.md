@@ -10,7 +10,7 @@ I'm a curious computer science student who enjoys learning how technology works
 and turning concepts into working projects. Currently exploring programming,
 data structures, web development, and databases.
 
-**9.44 CGPA** · **2nd Year CSE Student**
+**2nd Year CSE Student**
 
 
 [GitHub](YOUR_GITHUB_LINK) · [LinkedIn](YOUR_LINKEDIN_LINK)
