@@ -72,13 +72,10 @@ A browser-based Tic Tac Toe game developed using HTML, CSS, and JavaScript.
 
 ### Advanced Diploma in Java Programming
 
-[View Certificate](YOUR_CERTIFICATE_LINK)
 
 ### Java Programming - Udemy
 
 Completed a Java Programming course on Udemy.
-
-[View Certificate](YOUR_UDEMY_CERTIFICATE_LINK)
 
 ---
 
@@ -88,7 +85,7 @@ I use GitHub to document my learning, projects, and programming practice.
 
 **2 Repositories**
 
-[Visit My GitHub](YOUR_GITHUB_LINK)
+[Visit My GitHub](https://github.com/kanishka149/Portfolio.git)
 
 ---
 
@@ -104,6 +101,5 @@ I use GitHub to document my learning, projects, and programming practice.
 
 ## Contact
 
-[GitHub](YOUR_GITHUB_LINK) ·
-[LinkedIn](YOUR_LINKEDIN_LINK) ·
+[GitHub](https://github.com/kanishka149/Portfolio.git) ·
 [Email](kanishkagunasekaran06@gmail.com)
